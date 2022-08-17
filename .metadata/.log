@@ -1,0 +1,812 @@
+!SESSION 2022-08-01 09:23:06.855 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2022-08-01 09:23:41.806
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-01 09:23:41.806
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c157abf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@472dbaf5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-01 09:23:41.806
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25c4f621,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@619854a3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-08-01 09:30:23.475
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-08-03 14:56:52.882 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2022-08-03 14:57:42.347
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-03 14:57:42.347
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52fe87e0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37393dab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-03 14:57:42.347
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4866a755,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1361e880,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-08-03 15:05:21.268
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-08-08 07:59:00.939 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2022-08-08 13:17:35.197
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-08 13:17:35.197
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54a5799f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@162e29a1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-08 13:17:35.197
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54b96813,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b3d03b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-08-08 13:23:53.756
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-08-08 13:24:01.728 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2022-08-08 13:24:20.867
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-08 13:24:20.867
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4271b748,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@56d6e2e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-08 13:24:20.867
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e9695cf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43e86c0c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY Activator 1 0 2022-08-08 13:30:53.089
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-cassandra/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:53.720
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-jpa/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:54.179
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-gemfire/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:54.666
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-neo4j-data-rest/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:55.163
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-mongodb-data-rest/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:55.684
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-gemfire-data-rest/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:56.151
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-rest/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:56.645
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-r2dbc/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:57.372
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-neo4j/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:57.975
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-mysql/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:58.443
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-accessing-data-mongodb/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:58.910
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-sts/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:59.360
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-data-reactive-redis/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:30:59.813
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-cloud-task/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:00.352
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-cloud-stream/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:00.800
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-cloud-loadbalancer/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:01.264
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-cloud-dataflow/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:01.742
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-boot-kubernetes/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:02.263
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-boot-for-azure/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:03.006
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-boot-docker/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:03.543
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-spring-boot/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:04.023
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-serving-web-content/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:04.534
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-service-registration-and-discovery/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:04.985
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-securing-web/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:05.458
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-scheduling-tasks/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:05.945
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-rest-service-cors/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:06.387
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-rest-service/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:06.923
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-rest-hateoas/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:07.393
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-relational-data-access/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:07.903
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-reactive-rest-service/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:09.500
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-producing-web-service/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:09.940
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-multi-module/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:10.360
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-messaging-stomp-websocket/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:10.818
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-messaging-redis/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:11.318
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-messaging-rabbitmq/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:11.790
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-messaging-jms/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:12.313
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-messaging-gcp-pubsub/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:12.840
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-maven/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:13.304
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-managing-transactions/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:13.801
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-intellij-idea/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:14.266
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-integration/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:14.709
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-handling-form-submission/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:15.177
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-guides-with-vscode/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:15.654
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-gradle/archive/HEAD.zip
+
+!ENTRY Activator 1 0 2022-08-08 13:31:16.100
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-gateway/archive/HEAD.zip
+
+!ENTRY org.eclipse.ui 2 2 2022-08-08 13:31:16.203
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.589
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.590
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.591
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.591
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.592
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.592
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.592
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.593
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.593
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.593
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.594
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.594
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.594
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.595
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.595
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.596
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.597
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.597
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.597
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.598
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.598
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.598
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.599
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.599
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.599
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.599
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.600
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.600
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.600
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.601
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.601
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.601
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.601
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.602
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.602
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.603
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.603
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.603
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.603
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.604
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.604
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.604
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.605
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.605
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.605
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.605
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.606
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 4 0 2022-08-08 13:31:16.606
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getLog()" because the return value of "org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.getDefault()" is null
+	at org.springframework.ide.eclipse.boot.wizard.BootWizardActivator.log(BootWizardActivator.java:53)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel.performDownload(GSImportWizardModel.java:392)
+	at org.springframework.ide.eclipse.boot.wizard.guides.GSImportWizardModel$9.run(GSImportWizardModel.java:405)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2022-08-16 17:17:33.458 -----------------------------------------------
+eclipse.buildId=4.15.3.202208110744
+java.version=17.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/yasminnicolau/.eclipse_keyring
+
+!ENTRY org.eclipse.jface 2 0 2022-08-16 17:17:52.120
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-16 17:17:52.120
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55c581e4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@eaa07bb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-16 17:17:52.120
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6eae3730,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@42095996,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-08-16 17:19:40.529
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
